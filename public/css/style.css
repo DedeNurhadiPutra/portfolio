@@ -1,8 +1,13 @@
-body{
-    min-height: 2000px;
-}
-
 .jumbotron {
     padding-top: 2rem;
     background-color: #e2edff;
+}
+
+#gallery{
+    background-color: #e2edff;
+}
+
+footer *{
+    color: white;
+    font-weight: bold;
 }
