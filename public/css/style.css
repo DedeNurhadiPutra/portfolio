@@ -1,5 +1,5 @@
 .jumbotron {
-    padding-top: 2rem;
+    padding-top: 7rem;
     background-color: #e2edff;
 }
 
@@ -10,4 +10,12 @@
 footer *{
     color: white;
     font-weight: bold;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+ul#navbar li a.active {
+    color: white;
 }
